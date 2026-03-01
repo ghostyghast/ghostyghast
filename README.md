@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Antoine 👋
 
+## About me
+
+I'm a 42 school graduate. I love indie games, learning new technologies and tinkering in my homelab.
+
+## Contributions
+[Astrotux Launcher](https://github.com/birdhimself/AstroTuxLauncher/pulls?q=author%3Aghostyghast%20)
 <!--
 **ghostyghast/ghostyghast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
