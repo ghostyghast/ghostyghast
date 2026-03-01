@@ -5,7 +5,11 @@
 I'm a 42 school graduate. I love indie games, learning new technologies and tinkering in my homelab.
 
 ## Contributions
-[Astrotux Launcher](https://github.com/birdhimself/AstroTuxLauncher/pulls?q=author%3Aghostyghast%20)
+[AstroTux Launcher](https://github.com/birdhimself/AstroTuxLauncher/pulls?q=author%3Aghostyghast%20)
+
+## Contact Me
+[<img src="assets/email_icon.svg" height=50px>](mailto:antoinemalignon@yahoo.com)
+
 <!--
 **ghostyghast/ghostyghast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
