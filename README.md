@@ -2,7 +2,7 @@
 
 ## 📖 About me
 
-I'm a 42 school graduate. I love indie games, learning new technologies and tinkering in my homelab.
+I'm a 42 school student. I love indie games, learning new technologies and tinkering in my homelab.
 
 ## 🛠️ Currently working on
 An unanounced game project 🎮  
